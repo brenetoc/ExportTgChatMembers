@@ -9,6 +9,7 @@ ExportTgChatMembers
 4. Скопируйте значения App api_id и App api_hash.
 
 Установка и запуск скрипта.
+
 Шаг 1. Клонируем репозиторий
 ```bash
 git clone https://github.com/brenetoc/ExportTgChatMembers.git
