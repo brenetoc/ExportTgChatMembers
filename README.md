@@ -8,13 +8,6 @@ ExportTgChatMembers
 3. Создайте приложение.
 4. Скопируйте значения App api_id и App api_hash.
 
-Добавьте их в .env:
-
-API_ID=your_api_id
-API_HASH=your_api_hash
-
-⚠️ API_HASH — приватный ключ. Не публикуйте его!
-
 Установка и запуск скрипта.
 Шаг 1. Клонируем репозиторий
 ```bash
