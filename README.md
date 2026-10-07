@@ -2,7 +2,20 @@ ExportTgChatMembers
 
 Небольшой скрипт для выгрузки username всех участников Telegram-чата.
 
-Установка и запуск
+Для работы скрипта нужны Telegram API credentials:  API_ID и API_HASH
+1. Откройте my.telegram.org и войдите в свой Telegram-аккаунт.
+2. Перейдите в API development tools.
+3. Создайте приложение.
+4. Скопируйте значения App api_id и App api_hash.
+
+Добавьте их в .env:
+
+API_ID=your_api_id
+API_HASH=your_api_hash
+
+⚠️ API_HASH — приватный ключ. Не публикуйте его!
+
+Установка и запуск скрипта.
 Шаг 1. Клонируем репозиторий
 ```bash
 git clone https://github.com/brenetoc/ExportTgChatMembers.git
